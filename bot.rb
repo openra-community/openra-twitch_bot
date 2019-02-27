@@ -14,6 +14,7 @@ bot = Openra::IRCBot.new do
       Openra::IRCBot::Plugins::FiveAces,
       Openra::IRCBot::Plugins::FiveAcesOut,
       Openra::IRCBot::Plugins::Gatekeeper,
+      Openra::IRCBot::Plugins::Gaynonce,
       Openra::IRCBot::Plugins::Happy,
       Openra::IRCBot::Plugins::Na,
       Openra::IRCBot::Plugins::Orb,

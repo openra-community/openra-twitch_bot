@@ -2,10 +2,10 @@ GEM
   remote: https://rubygems.org/
   specs:
     cinch (2.3.4)
-    concurrent-ruby (1.1.3)
-    i18n (1.1.1)
+    concurrent-ruby (1.1.4)
+    i18n (1.5.3)
       concurrent-ruby (~> 1.0)
-    openra-irc_bot (0.6.0)
+    openra-irc_bot (0.7.1)
       bundler
       cinch
       i18n
@@ -16,8 +16,5 @@ PLATFORMS
 DEPENDENCIES
   openra-irc_bot
 
-RUBY VERSION
-   ruby 2.5.0p0
-
 BUNDLED WITH
-   1.17.1
+   1.17.3
